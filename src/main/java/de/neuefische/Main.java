@@ -10,7 +10,7 @@ public class Main {
             array1[i] = i + 1;
         }
 
-        // Print the array
+        // Print the array, für Leerzeilen zwischen den Elementen: " "
         System.out.println("Array 1: ");
         for (int num : array1) {
             System.out.print(num + " ");
