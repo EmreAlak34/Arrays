@@ -10,11 +10,12 @@ public class Main {
             array1[i] = i + 1;
         }
 
-        // Print the array, für Leerzeilen zwischen den Elementen: " "
+        // Print the array, für Leerzeichen zwischen den Elementen: " "
         System.out.println("Array 1: ");
         for (int num : array1) {
             System.out.print(num + " ");
         }
+        //Leerzeile zwischen den Aufgaben
         System.out.println();
 
         // Aufgabe 2:
